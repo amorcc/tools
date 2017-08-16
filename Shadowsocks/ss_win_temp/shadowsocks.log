@@ -1,0 +1,1592 @@
+[2017-01-16 09:21:10] Shadowsocks started
+[2017-01-16 09:21:36] Shadowsocks started
+[2017-01-16 09:29:49] Shadowsocks started
+[2017-01-16 09:37:07] Shadowsocks started
+[2017-01-16 09:45:17] Shadowsocks started
+[2017-01-16 09:46:36] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-01-16 09:46:36] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-01-16 18:01:00] ME (23.106.153.45:443) timed out
+[2017-01-16 18:01:05] ME (23.106.153.45:443) timed out
+[2017-01-16 18:35:15] controller stopped
+[2017-01-16 18:35:15] os suspend
+[2017-01-17 08:58:45] os wake up
+[2017-01-17 08:58:56] Shadowsocks started
+[2017-01-17 08:59:00] controller started
+[2017-01-17 11:10:55] ME (23.106.153.45:443) timed out
+[2017-01-17 11:11:00] ME (23.106.153.45:443) timed out
+[2017-01-17 16:58:08] Shadowsocks started
+[2017-01-17 16:58:21] Shadowsocks started
+[2017-01-17 18:36:03] controller stopped
+[2017-01-17 18:36:03] os suspend
+[2017-01-18 09:14:27] os wake up
+[2017-01-18 09:14:47] Shadowsocks started
+[2017-01-18 09:14:51] controller started
+[2017-01-18 14:57:01] ME (23.106.153.45:443) timed out
+[2017-01-18 18:32:09] controller stopped
+[2017-01-18 18:32:09] os suspend
+[2017-01-22 08:52:51] os wake up
+[2017-01-22 08:53:14] Shadowsocks started
+[2017-01-22 08:53:15] controller started
+[2017-01-22 09:56:20] ME (23.106.153.45:443) timed out
+[2017-01-22 09:56:20] ME (23.106.153.45:443) timed out
+[2017-01-22 09:56:25] ME (23.106.153.45:443) timed out
+[2017-01-22 09:56:25] ME (23.106.153.45:443) timed out
+[2017-01-22 09:57:00] ME (23.106.153.45:443) timed out
+[2017-01-22 10:20:48] ME (23.106.153.45:443) timed out
+[2017-01-22 14:03:46] ME (23.106.153.45:443) timed out
+[2017-01-22 18:21:03] ME (23.106.153.45:443) timed out
+[2017-01-22 18:21:03] ME (23.106.153.45:443) timed out
+[2017-01-22 18:21:03] ME (23.106.153.45:443) timed out
+[2017-01-22 18:21:03] ME (23.106.153.45:443) timed out
+[2017-01-22 18:21:03] ME (23.106.153.45:443) timed out
+[2017-01-22 18:31:23] controller stopped
+[2017-01-22 18:31:23] os suspend
+[2017-01-23 08:58:57] os wake up
+[2017-01-23 08:59:46] Shadowsocks started
+[2017-01-23 08:59:49] controller started
+[2017-01-23 10:56:44] ME (23.106.153.45:443) timed out
+[2017-01-23 11:18:40] ME (23.106.153.45:443) timed out
+[2017-01-23 18:32:35] controller stopped
+[2017-01-23 18:32:35] os suspend
+[2017-01-24 09:05:09] os wake up
+[2017-01-24 09:05:17] ME (23.106.153.45:443) timed out
+[2017-01-24 09:05:19] ME (23.106.153.45:443) timed out
+[2017-01-24 09:05:22] ME (23.106.153.45:443) timed out
+[2017-01-24 09:05:54] Shadowsocks started
+[2017-01-24 09:06:08] controller started
+[2017-01-24 09:35:39] ME (23.106.153.45:443) timed out
+[2017-01-24 10:56:16] ME (23.106.153.45:443) timed out
+[2017-01-24 11:47:29] ME (23.106.153.45:443) timed out
+[2017-01-24 11:47:46] ME (23.106.153.45:443) timed out
+[2017-01-24 11:48:45] ME (23.106.153.45:443) timed out
+[2017-01-24 11:48:45] ME (23.106.153.45:443) timed out
+[2017-01-24 11:57:19] ME (23.106.153.45:443) timed out
+[2017-01-24 11:58:34] ME (23.106.153.45:443) timed out
+[2017-01-24 11:59:26] ME (23.106.153.45:443) timed out
+[2017-01-24 12:04:10] ME (23.106.153.45:443) timed out
+[2017-01-24 12:06:04] ME (23.106.153.45:443) timed out
+[2017-01-24 12:06:40] ME (23.106.153.45:443) timed out
+[2017-01-24 12:06:56] ME (23.106.153.45:443) timed out
+[2017-01-24 12:07:31] ME (23.106.153.45:443) timed out
+[2017-01-24 12:07:31] ME (23.106.153.45:443) timed out
+[2017-01-24 12:15:19] ME (23.106.153.45:443) timed out
+[2017-01-24 12:16:28] ME (23.106.153.45:443) timed out
+[2017-01-24 14:20:58] ME (23.106.153.45:443) timed out
+[2017-01-24 14:21:03] ME (23.106.153.45:443) timed out
+[2017-01-24 14:21:33] ME (23.106.153.45:443) timed out
+[2017-01-24 14:23:31] ME (23.106.153.45:443) timed out
+[2017-01-24 14:32:02] ME (23.106.153.45:443) timed out
+[2017-01-24 15:09:03] ME (23.106.153.45:443) timed out
+[2017-01-24 15:44:04] ME (23.106.153.45:443) timed out
+[2017-01-24 17:26:41] ME (23.106.153.45:443) timed out
+[2017-02-03 08:56:23] Shadowsocks started
+[2017-02-03 09:07:58] ME (23.106.153.45:443) timed out
+[2017-02-03 09:08:01] ME (23.106.153.45:443) timed out
+[2017-02-03 15:07:41] ME (23.106.153.45:443) timed out
+[2017-02-03 15:07:41] ME (23.106.153.45:443) timed out
+[2017-02-03 15:08:01] ME (23.106.153.45:443) timed out
+[2017-02-03 15:28:19] Shadowsocks started
+[2017-02-03 15:29:16] Shadowsocks started
+[2017-02-03 18:37:45] controller stopped
+[2017-02-03 18:37:45] os suspend
+[2017-02-04 08:54:50] os wake up
+[2017-02-04 08:55:00] Shadowsocks started
+[2017-02-04 08:55:02] controller started
+[2017-02-04 17:06:59] ME (23.106.153.45:443) timed out
+[2017-02-04 17:57:38] ME (23.106.153.45:443) timed out
+[2017-02-04 18:32:14] controller stopped
+[2017-02-04 18:32:14] os suspend
+[2017-02-06 08:54:38] os wake up
+[2017-02-06 08:54:49] Shadowsocks started
+[2017-02-06 08:55:05] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-06 08:55:05] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-06 08:55:05] controller started
+[2017-02-06 08:58:26] Shadowsocks started
+[2017-02-06 13:56:40] Detected: PAC file 'pac.txt' was changed.
+[2017-02-06 18:32:33] ME (23.106.153.45:443) timed out
+[2017-02-06 18:42:17] ME (23.106.153.45:443) timed out
+[2017-02-06 18:42:17] ME (23.106.153.45:443) timed out
+[2017-02-06 18:42:17] ME (23.106.153.45:443) timed out
+[2017-02-06 18:42:17] ME (23.106.153.45:443) timed out
+[2017-02-06 18:42:17] ME (23.106.153.45:443) timed out
+[2017-02-06 18:42:17] ME (23.106.153.45:443) timed out
+[2017-02-06 18:42:17] ME (23.106.153.45:443) timed out
+[2017-02-06 18:42:17] ME (23.106.153.45:443) timed out
+[2017-02-06 18:42:20] ME (23.106.153.45:443) timed out
+[2017-02-06 18:44:38] ME (23.106.153.45:443) timed out
+[2017-02-06 18:47:06] ME (23.106.153.45:443) timed out
+[2017-02-06 18:47:07] ME (23.106.153.45:443) timed out
+[2017-02-06 18:47:09] ME (23.106.153.45:443) timed out
+[2017-02-06 18:47:11] ME (23.106.153.45:443) timed out
+[2017-02-06 18:47:12] ME (23.106.153.45:443) timed out
+[2017-02-06 18:53:23] controller stopped
+[2017-02-06 18:53:23] os suspend
+[2017-02-07 09:09:26] os wake up
+[2017-02-07 09:09:42] Shadowsocks started
+[2017-02-07 09:09:50] controller started
+[2017-02-07 11:37:43] ME (23.106.153.45:443) timed out
+[2017-02-07 13:37:28] ME (23.106.153.45:443) timed out
+[2017-02-07 13:37:28] ME (23.106.153.45:443) timed out
+[2017-02-07 13:37:28] ME (23.106.153.45:443) timed out
+[2017-02-07 13:37:33] ME (23.106.153.45:443) timed out
+[2017-02-07 13:37:33] ME (23.106.153.45:443) timed out
+[2017-02-07 13:37:33] ME (23.106.153.45:443) timed out
+[2017-02-07 13:50:01] ME (23.106.153.45:443) timed out
+[2017-02-07 13:50:01] ME (23.106.153.45:443) timed out
+[2017-02-07 13:50:06] ME (23.106.153.45:443) timed out
+[2017-02-07 13:50:06] ME (23.106.153.45:443) timed out
+[2017-02-07 13:50:07] ME (23.106.153.45:443) timed out
+[2017-02-07 13:50:12] ME (23.106.153.45:443) timed out
+[2017-02-07 13:50:35] ME (23.106.153.45:443) timed out
+[2017-02-07 13:51:02] ME (23.106.153.45:443) timed out
+[2017-02-07 13:52:07] ME (23.106.153.45:443) timed out
+[2017-02-07 18:32:45] controller stopped
+[2017-02-07 18:32:45] os suspend
+[2017-02-08 09:01:13] os wake up
+[2017-02-08 09:01:28] Shadowsocks started
+[2017-02-08 09:01:47] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-08 09:01:47] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-08 09:01:47] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-08 09:01:47] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-08 09:01:47] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-08 09:01:47] controller started
+[2017-02-08 10:13:12] ME (23.106.153.45:443) timed out
+[2017-02-08 18:19:09] ME (23.106.153.45:443) timed out
+[2017-02-08 18:34:03] controller stopped
+[2017-02-08 18:34:03] os suspend
+[2017-02-09 09:07:31] os wake up
+[2017-02-09 09:07:36] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:36] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:37] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:38] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:38] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:38] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:38] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:38] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:38] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:38] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:39] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:39] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:39] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:39] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:39] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:39] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:39] ME (23.106.153.45:443) timed out
+[2017-02-09 09:07:41] ME (23.106.153.45:443) timed out
+[2017-02-09 09:08:17] Shadowsocks started
+[2017-02-09 09:08:24] controller started
+[2017-02-09 09:08:45] ME (23.106.153.45:443) timed out
+[2017-02-09 09:08:50] ME (23.106.153.45:443) timed out
+[2017-02-09 09:12:29] Shadowsocks started
+[2017-02-09 10:51:35] ME (23.106.153.45:443) timed out
+[2017-02-09 10:51:35] ME (23.106.153.45:443) timed out
+[2017-02-09 15:50:44] ME (23.106.153.45:443) timed out
+[2017-02-09 18:37:34] controller stopped
+[2017-02-09 18:37:34] os suspend
+[2017-02-10 09:09:11] os wake up
+[2017-02-10 09:09:21] Shadowsocks started
+[2017-02-10 09:09:30] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-10 09:09:30] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-10 09:09:30] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-10 09:09:30] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-10 09:09:30] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-10 09:09:30] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-10 09:09:30] controller started
+[2017-02-10 09:09:30] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-10 09:52:50] Shadowsocks started
+[2017-02-10 09:57:07] ME (23.106.153.45:443) timed out
+[2017-02-10 09:57:12] ME (23.106.153.45:443) timed out
+[2017-02-10 09:57:25] ME (23.106.153.45:443) timed out
+[2017-02-10 18:31:28] controller stopped
+[2017-02-10 18:31:28] os suspend
+[2017-02-13 09:05:35] os wake up
+[2017-02-13 09:05:46] Shadowsocks started
+[2017-02-13 09:05:47] controller started
+[2017-02-13 09:51:11] ME (23.106.153.45:443) timed out
+[2017-02-13 09:51:11] ME (23.106.153.45:443) timed out
+[2017-02-13 09:51:11] ME (23.106.153.45:443) timed out
+[2017-02-13 09:51:16] ME (23.106.153.45:443) timed out
+[2017-02-13 09:51:16] ME (23.106.153.45:443) timed out
+[2017-02-13 09:51:16] ME (23.106.153.45:443) timed out
+[2017-02-13 09:51:51] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:32] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:32] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:35] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:37] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:37] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:40] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:45] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:45] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:45] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:45] ME (23.106.153.45:443) timed out
+[2017-02-13 12:43:50] ME (23.106.153.45:443) timed out
+[2017-02-13 12:44:09] ME (23.106.153.45:443) timed out
+[2017-02-13 12:44:11] ME (23.106.153.45:443) timed out
+[2017-02-13 12:44:14] ME (23.106.153.45:443) timed out
+[2017-02-13 12:44:19] ME (23.106.153.45:443) timed out
+[2017-02-13 12:44:24] ME (23.106.153.45:443) timed out
+[2017-02-13 12:44:30] ME (23.106.153.45:443) timed out
+[2017-02-13 12:44:34] ME (23.106.153.45:443) timed out
+[2017-02-13 12:44:35] ME (23.106.153.45:443) timed out
+[2017-02-13 12:44:39] ME (23.106.153.45:443) timed out
+[2017-02-13 13:06:02] ME (23.106.153.45:443) timed out
+[2017-02-13 13:55:29] ME (23.106.153.45:443) timed out
+[2017-02-13 14:39:03] ME (23.106.153.45:443) timed out
+[2017-02-13 14:39:08] ME (23.106.153.45:443) timed out
+[2017-02-13 14:39:44] ME (23.106.153.45:443) timed out
+[2017-02-13 14:39:49] ME (23.106.153.45:443) timed out
+[2017-02-13 15:46:10] ME (23.106.153.45:443) timed out
+[2017-02-13 16:04:25] ME (23.106.153.45:443) timed out
+[2017-02-13 16:40:38] ME (23.106.153.45:443) timed out
+[2017-02-13 16:53:19] ME (23.106.153.45:443) timed out
+[2017-02-13 16:53:19] ME (23.106.153.45:443) timed out
+[2017-02-13 16:53:19] ME (23.106.153.45:443) timed out
+[2017-02-13 16:53:19] ME (23.106.153.45:443) timed out
+[2017-02-13 16:54:25] ME (23.106.153.45:443) timed out
+[2017-02-13 18:34:57] controller stopped
+[2017-02-13 18:34:57] os suspend
+[2017-02-14 08:53:45] os wake up
+[2017-02-14 08:53:52] ME (23.106.153.45:443) timed out
+[2017-02-14 08:53:52] ME (23.106.153.45:443) timed out
+[2017-02-14 08:53:52] ME (23.106.153.45:443) timed out
+[2017-02-14 08:53:52] ME (23.106.153.45:443) timed out
+[2017-02-14 08:53:52] ME (23.106.153.45:443) timed out
+[2017-02-14 08:53:56] Shadowsocks started
+[2017-02-14 08:54:09] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-14 08:54:09] controller started
+[2017-02-14 10:48:49] ME (23.106.153.45:443) timed out
+[2017-02-14 11:10:59] ME (23.106.153.45:443) timed out
+[2017-02-14 11:10:59] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:00] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:00] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:00] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:00] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:00] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:01] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:01] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:04] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:04] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:08] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:09] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:09] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:10] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:13] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:13] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:14] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:18] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:22] ME (23.106.153.45:443) timed out
+[2017-02-14 11:11:23] ME (23.106.153.45:443) timed out
+[2017-02-14 11:12:12] ME (23.106.153.45:443) timed out
+[2017-02-14 11:13:22] ME (23.106.153.45:443) timed out
+[2017-02-14 11:13:27] ME (23.106.153.45:443) timed out
+[2017-02-14 11:14:39] ME (23.106.153.45:443) timed out
+[2017-02-14 11:14:44] ME (23.106.153.45:443) timed out
+[2017-02-14 11:14:56] ME (23.106.153.45:443) timed out
+[2017-02-14 11:14:56] ME (23.106.153.45:443) timed out
+[2017-02-14 11:14:56] ME (23.106.153.45:443) timed out
+[2017-02-14 11:15:12] ME (23.106.153.45:443) timed out
+[2017-02-14 11:16:49] ME (23.106.153.45:443) timed out
+[2017-02-14 11:18:48] ME (23.106.153.45:443) timed out
+[2017-02-14 11:18:53] ME (23.106.153.45:443) timed out
+[2017-02-14 11:20:13] ME (23.106.153.45:443) timed out
+[2017-02-14 11:20:18] ME (23.106.153.45:443) timed out
+[2017-02-14 11:48:23] ME (23.106.153.45:443) timed out
+[2017-02-14 11:48:23] ME (23.106.153.45:443) timed out
+[2017-02-14 11:48:24] ME (23.106.153.45:443) timed out
+[2017-02-14 11:48:24] ME (23.106.153.45:443) timed out
+[2017-02-14 11:48:24] ME (23.106.153.45:443) timed out
+[2017-02-14 11:48:24] ME (23.106.153.45:443) timed out
+[2017-02-14 11:48:24] ME (23.106.153.45:443) timed out
+[2017-02-14 11:48:28] ME (23.106.153.45:443) timed out
+[2017-02-14 12:00:14] controller stopped
+[2017-02-14 12:00:14] os suspend
+[2017-02-14 12:35:34] os wake up
+[2017-02-14 12:35:47] Shadowsocks started
+[2017-02-14 12:35:58] ME (23.106.153.45:443) timed out
+[2017-02-14 12:35:59] controller started
+[2017-02-14 12:36:03] ME (23.106.153.45:443) timed out
+[2017-02-14 12:36:27] ME (23.106.153.45:443) timed out
+[2017-02-14 12:36:27] ME (23.106.153.45:443) timed out
+[2017-02-14 12:36:27] ME (23.106.153.45:443) timed out
+[2017-02-14 12:36:27] ME (23.106.153.45:443) timed out
+[2017-02-14 12:36:27] ME (23.106.153.45:443) timed out
+[2017-02-14 18:40:12] ME (23.106.153.45:443) timed out
+[2017-02-14 18:41:11] ME (23.106.153.45:443) timed out
+[2017-02-14 18:41:56] ME (23.106.153.45:443) timed out
+[2017-02-14 18:42:01] ME (23.106.153.45:443) timed out
+[2017-02-14 18:42:15] controller stopped
+[2017-02-14 18:42:15] os suspend
+[2017-02-15 08:49:56] os wake up
+[2017-02-15 08:50:06] Shadowsocks started
+[2017-02-15 08:50:15] controller started
+[2017-02-15 13:52:33] ME (23.106.153.45:443) timed out
+[2017-02-15 13:52:34] ME (23.106.153.45:443) timed out
+[2017-02-15 13:52:35] ME (23.106.153.45:443) timed out
+[2017-02-15 14:30:22] ME (23.106.153.45:443) timed out
+[2017-02-15 18:40:55] controller stopped
+[2017-02-15 18:40:55] os suspend
+[2017-02-16 08:40:44] os wake up
+[2017-02-16 08:40:54] Shadowsocks started
+[2017-02-16 08:40:56] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-16 08:41:14] controller started
+[2017-02-16 14:36:37] ME (23.106.153.45:443) timed out
+[2017-02-16 18:32:10] controller stopped
+[2017-02-16 18:32:10] os suspend
+[2017-02-17 08:51:12] os wake up
+[2017-02-17 08:51:29] ME (23.106.153.45:443) timed out
+[2017-02-17 08:51:30] ME (23.106.153.45:443) timed out
+[2017-02-17 08:51:30] ME (23.106.153.45:443) timed out
+[2017-02-17 08:51:30] ME (23.106.153.45:443) timed out
+[2017-02-17 08:51:55] Shadowsocks started
+[2017-02-17 08:52:00] controller started
+[2017-02-17 08:52:41] ME (23.106.153.45:443) timed out
+[2017-02-17 10:46:55] ME (23.106.153.45:443) timed out
+[2017-02-17 11:17:38] ME (23.106.153.45:443) timed out
+[2017-02-17 11:18:23] ME (23.106.153.45:443) timed out
+[2017-02-17 11:19:47] ME (23.106.153.45:443) timed out
+[2017-02-17 12:32:33] ME (23.106.153.45:443) timed out
+[2017-02-17 12:32:33] ME (23.106.153.45:443) timed out
+[2017-02-17 12:32:33] ME (23.106.153.45:443) timed out
+[2017-02-17 12:32:33] ME (23.106.153.45:443) timed out
+[2017-02-17 13:06:09] ME (23.106.153.45:443) timed out
+[2017-02-17 15:08:34] ME (23.106.153.45:443) timed out
+[2017-02-17 15:08:34] ME (23.106.153.45:443) timed out
+[2017-02-17 15:08:39] ME (23.106.153.45:443) timed out
+[2017-02-17 15:09:03] ME (23.106.153.45:443) timed out
+[2017-02-17 15:09:08] ME (23.106.153.45:443) timed out
+[2017-02-17 15:32:37] ME (23.106.153.45:443) timed out
+[2017-02-17 15:50:25] ME (23.106.153.45:443) timed out
+[2017-02-17 15:50:25] ME (23.106.153.45:443) timed out
+[2017-02-17 15:50:47] ME (23.106.153.45:443) timed out
+[2017-02-17 15:53:33] ME (23.106.153.45:443) timed out
+[2017-02-17 16:00:11] ME (23.106.153.45:443) timed out
+[2017-02-17 16:00:16] ME (23.106.153.45:443) timed out
+[2017-02-17 16:00:16] ME (23.106.153.45:443) timed out
+[2017-02-17 16:04:30] ME (23.106.153.45:443) timed out
+[2017-02-17 16:04:30] ME (23.106.153.45:443) timed out
+[2017-02-17 16:04:30] ME (23.106.153.45:443) timed out
+[2017-02-17 16:26:29] ME (23.106.153.45:443) timed out
+[2017-02-17 16:41:53] ME (23.106.153.45:443) timed out
+[2017-02-17 16:41:54] ME (23.106.153.45:443) timed out
+[2017-02-17 16:54:34] ME (23.106.153.45:443) timed out
+[2017-02-17 17:02:52] ME (23.106.153.45:443) timed out
+[2017-02-17 17:15:25] ME (23.106.153.45:443) timed out
+[2017-02-17 17:15:31] ME (23.106.153.45:443) timed out
+[2017-02-17 17:21:30] ME (23.106.153.45:443) timed out
+[2017-02-17 17:45:12] ME (23.106.153.45:443) timed out
+[2017-02-17 17:45:12] ME (23.106.153.45:443) timed out
+[2017-02-17 17:45:17] ME (23.106.153.45:443) timed out
+[2017-02-17 17:45:47] ME (23.106.153.45:443) timed out
+[2017-02-17 17:45:47] ME (23.106.153.45:443) timed out
+[2017-02-17 17:45:52] ME (23.106.153.45:443) timed out
+[2017-02-17 17:45:52] ME (23.106.153.45:443) timed out
+[2017-02-17 19:03:35] ME (23.106.153.45:443) timed out
+[2017-02-17 19:03:35] ME (23.106.153.45:443) timed out
+[2017-02-17 19:03:35] ME (23.106.153.45:443) timed out
+[2017-02-17 19:03:40] ME (23.106.153.45:443) timed out
+[2017-02-17 19:03:40] ME (23.106.153.45:443) timed out
+[2017-02-17 19:03:40] ME (23.106.153.45:443) timed out
+[2017-02-17 19:04:09] ME (23.106.153.45:443) timed out
+[2017-02-18 04:04:26] ME (23.106.153.45:443) timed out
+[2017-02-18 09:57:31] ME (23.106.153.45:443) timed out
+[2017-02-19 02:09:06] ME (23.106.153.45:443) timed out
+[2017-02-19 02:09:11] ME (23.106.153.45:443) timed out
+[2017-02-19 02:09:16] ME (23.106.153.45:443) timed out
+[2017-02-19 02:09:21] ME (23.106.153.45:443) timed out
+[2017-02-19 02:09:28] ME (23.106.153.45:443) timed out
+[2017-02-19 02:09:33] ME (23.106.153.45:443) timed out
+[2017-02-19 02:10:08] ME (23.106.153.45:443) timed out
+[2017-02-19 02:10:13] ME (23.106.153.45:443) timed out
+[2017-02-19 02:10:26] ME (23.106.153.45:443) timed out
+[2017-02-19 02:10:31] ME (23.106.153.45:443) timed out
+[2017-02-19 02:10:36] ME (23.106.153.45:443) timed out
+[2017-02-19 02:10:41] ME (23.106.153.45:443) timed out
+[2017-02-19 02:10:46] ME (23.106.153.45:443) timed out
+[2017-02-19 02:10:51] ME (23.106.153.45:443) timed out
+[2017-02-19 02:11:26] ME (23.106.153.45:443) timed out
+[2017-02-19 02:11:31] ME (23.106.153.45:443) timed out
+[2017-02-19 02:11:57] ME (23.106.153.45:443) timed out
+[2017-02-19 02:12:02] ME (23.106.153.45:443) timed out
+[2017-02-19 10:21:50] ME (23.106.153.45:443) timed out
+[2017-02-20 04:58:39] ME (23.106.153.45:443) timed out
+[2017-02-20 04:58:44] ME (23.106.153.45:443) timed out
+[2017-02-20 15:36:34] ME (23.106.153.45:443) timed out
+[2017-02-20 15:36:34] ME (23.106.153.45:443) timed out
+[2017-02-20 15:36:35] ME (23.106.153.45:443) timed out
+[2017-02-20 18:38:43] controller stopped
+[2017-02-20 18:38:43] os suspend
+[2017-02-21 08:56:16] os wake up
+[2017-02-21 08:56:38] Shadowsocks started
+[2017-02-21 08:56:45] controller started
+[2017-02-21 11:17:24] ME (23.106.153.45:443) timed out
+[2017-02-21 11:17:33] ME (23.106.153.45:443) timed out
+[2017-02-21 16:13:50] Shadowsocks started
+[2017-02-21 18:36:06] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:29] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:29] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:29] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:34] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:34] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:34] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:37] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:42] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:54] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:54] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:54] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:59] ME (23.106.153.45:443) timed out
+[2017-02-21 18:36:59] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:04] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:45] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:45] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:45] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:45] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:45] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:45] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:50] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:50] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:50] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:50] ME (23.106.153.45:443) timed out
+[2017-02-21 18:37:56] ME (23.106.153.45:443) timed out
+[2017-02-21 18:38:01] ME (23.106.153.45:443) timed out
+[2017-02-21 18:44:36] controller stopped
+[2017-02-21 18:44:36] os suspend
+[2017-02-22 08:56:01] os wake up
+[2017-02-22 08:56:11] Shadowsocks started
+[2017-02-22 08:56:12] controller started
+[2017-02-22 11:17:34] ME (23.106.153.45:443) timed out
+[2017-02-22 13:14:29] ME (23.106.153.45:443) timed out
+[2017-02-22 14:29:27] ME (23.106.153.45:443) timed out
+[2017-02-22 14:29:28] ME (23.106.153.45:443) timed out
+[2017-02-22 14:31:04] ME (23.106.153.45:443) timed out
+[2017-02-22 14:31:09] ME (23.106.153.45:443) timed out
+[2017-02-22 14:31:59] ME (23.106.153.45:443) timed out
+[2017-02-22 14:34:39] ME (23.106.153.45:443) timed out
+[2017-02-22 14:35:10] ME (23.106.153.45:443) timed out
+[2017-02-22 14:58:27] ME (23.106.153.45:443) timed out
+[2017-02-22 15:01:33] ME (23.106.153.45:443) timed out
+[2017-02-22 15:07:44] ME (23.106.153.45:443) timed out
+[2017-02-22 15:07:44] ME (23.106.153.45:443) timed out
+[2017-02-22 15:08:27] ME (23.106.153.45:443) timed out
+[2017-02-22 15:26:45] ME (23.106.153.45:443) timed out
+[2017-02-22 15:26:45] ME (23.106.153.45:443) timed out
+[2017-02-22 15:55:35] ME (23.106.153.45:443) timed out
+[2017-02-22 15:55:45] ME (23.106.153.45:443) timed out
+[2017-02-22 16:03:16] ME (23.106.153.45:443) timed out
+[2017-02-22 16:03:17] ME (23.106.153.45:443) timed out
+[2017-02-22 16:20:18] ME (23.106.153.45:443) timed out
+[2017-02-22 16:22:33] ME (23.106.153.45:443) timed out
+[2017-02-22 17:01:43] ME (23.106.153.45:443) timed out
+[2017-02-22 17:57:56] ME (23.106.153.45:443) timed out
+[2017-02-22 18:03:29] ME (23.106.153.45:443) timed out
+[2017-02-22 18:03:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:03:49] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:05:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:09:53] ME (23.106.153.45:443) timed out
+[2017-02-22 18:09:53] ME (23.106.153.45:443) timed out
+[2017-02-22 18:09:53] ME (23.106.153.45:443) timed out
+[2017-02-22 18:09:58] ME (23.106.153.45:443) timed out
+[2017-02-22 18:09:58] ME (23.106.153.45:443) timed out
+[2017-02-22 18:09:58] ME (23.106.153.45:443) timed out
+[2017-02-22 18:10:27] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:33] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:34] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:35] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:35] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:38] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:43] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:44] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:48] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:51] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:51] ME (23.106.153.45:443) timed out
+[2017-02-22 18:11:51] ME (23.106.153.45:443) timed out
+[2017-02-22 18:31:54] controller stopped
+[2017-02-22 18:31:54] os suspend
+[2017-02-23 09:03:38] os wake up
+[2017-02-23 09:03:44] ME (23.106.153.45:443) timed out
+[2017-02-23 09:03:57] Shadowsocks started
+[2017-02-23 09:04:04] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-23 09:04:04] controller started
+[2017-02-23 14:29:01] ME (23.106.153.45:443) timed out
+[2017-02-23 14:29:06] ME (23.106.153.45:443) timed out
+[2017-02-23 15:53:52] ME (23.106.153.45:443) timed out
+[2017-02-23 18:39:27] controller stopped
+[2017-02-23 18:39:27] os suspend
+[2017-02-24 10:06:46] os wake up
+[2017-02-24 10:06:56] Shadowsocks started
+[2017-02-24 10:06:58] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-24 10:07:10] controller started
+[2017-02-24 11:03:58] ME (23.106.153.45:443) timed out
+[2017-02-24 11:04:03] ME (23.106.153.45:443) timed out
+[2017-02-24 11:04:06] ME (23.106.153.45:443) timed out
+[2017-02-24 11:35:09] ME (23.106.153.45:443) timed out
+[2017-02-24 15:40:50] controller stopped
+[2017-02-24 15:40:50] os suspend
+[2017-02-25 08:41:22] os wake up
+[2017-02-25 08:41:33] Shadowsocks started
+[2017-02-25 08:41:34] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-02-25 08:42:02] controller started
+[2017-02-27 09:09:33] Shadowsocks started
+[2017-02-27 09:21:09] Shadowsocks started
+[2017-02-27 09:43:48] ME (23.106.153.45:443) timed out
+[2017-02-27 12:23:24] ME (23.106.153.45:443) timed out
+[2017-02-27 12:23:24] ME (23.106.153.45:443) timed out
+[2017-02-27 12:23:27] ME (23.106.153.45:443) timed out
+[2017-02-27 12:23:29] ME (23.106.153.45:443) timed out
+[2017-02-27 12:23:29] ME (23.106.153.45:443) timed out
+[2017-02-27 12:23:59] ME (23.106.153.45:443) timed out
+[2017-02-27 13:34:21] ME (23.106.153.45:443) timed out
+[2017-02-27 13:34:37] ME (23.106.153.45:443) timed out
+[2017-02-27 13:34:42] ME (23.106.153.45:443) timed out
+[2017-02-27 13:35:12] ME (23.106.153.45:443) timed out
+[2017-02-27 13:35:12] ME (23.106.153.45:443) timed out
+[2017-02-27 13:35:12] ME (23.106.153.45:443) timed out
+[2017-02-27 13:35:17] ME (23.106.153.45:443) timed out
+[2017-02-27 13:35:17] ME (23.106.153.45:443) timed out
+[2017-02-27 13:35:17] ME (23.106.153.45:443) timed out
+[2017-02-27 13:35:22] ME (23.106.153.45:443) timed out
+[2017-02-27 16:06:50] ME (23.106.153.45:443) timed out
+[2017-02-27 16:06:50] ME (23.106.153.45:443) timed out
+[2017-02-27 16:06:50] ME (23.106.153.45:443) timed out
+[2017-02-27 16:06:50] ME (23.106.153.45:443) timed out
+[2017-02-27 16:06:55] ME (23.106.153.45:443) timed out
+[2017-02-27 16:06:55] ME (23.106.153.45:443) timed out
+[2017-02-27 16:06:55] ME (23.106.153.45:443) timed out
+[2017-02-27 16:06:55] ME (23.106.153.45:443) timed out
+[2017-02-27 16:07:00] ME (23.106.153.45:443) timed out
+[2017-02-27 16:07:05] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:37] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:37] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:37] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:37] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:42] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:42] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:42] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:42] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:47] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:50] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:52] ME (23.106.153.45:443) timed out
+[2017-02-27 16:15:55] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:06] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:11] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:16] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:21] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:26] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:26] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:26] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:26] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:28] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:31] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:31] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:31] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:36] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:36] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:36] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:41] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:46] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:50] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:51] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:51] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:52] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:52] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:52] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:52] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:52] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:55] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:57] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:57] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:57] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:57] ME (23.106.153.45:443) timed out
+[2017-02-27 16:16:57] ME (23.106.153.45:443) timed out
+[2017-02-27 16:24:27] ME (23.106.153.45:443) timed out
+[2017-02-27 16:24:27] ME (23.106.153.45:443) timed out
+[2017-02-27 16:24:29] ME (23.106.153.45:443) timed out
+[2017-02-27 16:24:29] ME (23.106.153.45:443) timed out
+[2017-02-27 16:24:34] ME (23.106.153.45:443) timed out
+[2017-02-27 16:24:35] ME (23.106.153.45:443) timed out
+[2017-02-27 16:24:40] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:06] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:06] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:11] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:11] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:14] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:15] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:15] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:16] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:16] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:16] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:16] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:16] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:16] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:19] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:21] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:21] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:21] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:24] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:25] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:30] ME (23.106.153.45:443) timed out
+[2017-02-27 16:25:44] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:44] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:44] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:44] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:44] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:44] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:44] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:44] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:44] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:50] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:54] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:54] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:54] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:54] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:54] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:54] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:25:54] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:26:16] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:26:16] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:26:17] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:26:17] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:26:17] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:26:17] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:27:01] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:27:01] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:27:01] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:27:01] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:27:01] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:27:01] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:27:01] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:27:01] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-02-27 16:33:36] ME (23.106.153.45:443) timed out
+[2017-02-27 17:37:30] ME (23.106.153.45:443) timed out
+[2017-02-27 17:37:30] ME (23.106.153.45:443) timed out
+[2017-02-27 17:37:35] ME (23.106.153.45:443) timed out
+[2017-02-27 17:37:35] ME (23.106.153.45:443) timed out
+[2017-02-27 17:37:38] ME (23.106.153.45:443) timed out
+[2017-02-27 17:39:01] ME (23.106.153.45:443) timed out
+[2017-02-27 17:39:06] ME (23.106.153.45:443) timed out
+[2017-02-27 17:39:06] ME (23.106.153.45:443) timed out
+[2017-02-27 17:39:14] ME (23.106.153.45:443) timed out
+[2017-02-27 17:39:14] ME (23.106.153.45:443) timed out
+[2017-02-27 17:39:14] ME (23.106.153.45:443) timed out
+[2017-02-27 17:39:14] ME (23.106.153.45:443) timed out
+[2017-02-27 17:39:14] ME (23.106.153.45:443) timed out
+[2017-02-27 17:39:17] ME (23.106.153.45:443) timed out
+[2017-02-27 18:18:51] ME (23.106.153.45:443) timed out
+[2017-02-27 18:35:13] controller stopped
+[2017-02-27 18:35:13] os suspend
+[2017-02-28 09:01:49] os wake up
+[2017-02-28 09:01:59] Shadowsocks started
+[2017-02-28 09:02:00] controller started
+[2017-02-28 09:02:59] Shadowsocks started
+[2017-02-28 09:05:59] Shadowsocks started
+[2017-02-28 10:56:50] ME (23.106.153.45:443) timed out
+[2017-02-28 10:56:51] ME (23.106.153.45:443) timed out
+[2017-02-28 10:56:55] ME (23.106.153.45:443) timed out
+[2017-02-28 11:23:49] ME (23.106.153.45:443) timed out
+[2017-02-28 13:48:06] ME (23.106.153.45:443) timed out
+[2017-02-28 15:21:56] ME (23.106.153.45:443) timed out
+[2017-02-28 15:58:59] ME (23.106.153.45:443) timed out
+[2017-02-28 16:09:04] Shadowsocks started
+[2017-02-28 16:29:04] ME (23.106.153.45:443) timed out
+[2017-02-28 16:29:04] ME (23.106.153.45:443) timed out
+[2017-02-28 16:29:04] ME (23.106.153.45:443) timed out
+[2017-02-28 16:29:04] ME (23.106.153.45:443) timed out
+[2017-02-28 16:29:04] ME (23.106.153.45:443) timed out
+[2017-02-28 16:29:04] ME (23.106.153.45:443) timed out
+[2017-02-28 16:31:10] ME (23.106.153.45:443) timed out
+[2017-02-28 16:40:17] ME (23.106.153.45:443) timed out
+[2017-02-28 16:40:22] ME (23.106.153.45:443) timed out
+[2017-02-28 16:40:47] ME (23.106.153.45:443) timed out
+[2017-02-28 16:40:52] ME (23.106.153.45:443) timed out
+[2017-02-28 16:41:42] ME (23.106.153.45:443) timed out
+[2017-02-28 16:41:47] ME (23.106.153.45:443) timed out
+[2017-02-28 17:28:08] ME (23.106.153.45:443) timed out
+[2017-02-28 18:38:22] controller stopped
+[2017-02-28 18:38:22] os suspend
+[2017-02-28 18:38:31] os wake up
+[2017-02-28 18:38:41] Shadowsocks started
+[2017-02-28 18:38:41] controller started
+[2017-02-28 18:42:12] controller stopped
+[2017-02-28 18:42:12] os suspend
+[2017-03-01 09:01:48] os wake up
+[2017-03-01 09:01:56] ME (23.106.153.45:443) timed out
+[2017-03-01 09:02:03] Shadowsocks started
+[2017-03-01 09:02:05] controller started
+[2017-03-01 09:02:09] ME (23.106.153.45:443) timed out
+[2017-03-01 09:02:14] ME (23.106.153.45:443) timed out
+[2017-03-01 11:29:21] ME (23.106.153.45:443) timed out
+[2017-03-01 11:39:41] ME (23.106.153.45:443) timed out
+[2017-03-01 11:39:41] ME (23.106.153.45:443) timed out
+[2017-03-01 11:39:46] ME (23.106.153.45:443) timed out
+[2017-03-01 11:39:46] ME (23.106.153.45:443) timed out
+[2017-03-01 14:17:56] ME (23.106.153.45:443) timed out
+[2017-03-01 14:17:57] ME (23.106.153.45:443) timed out
+[2017-03-01 14:36:03] ME (23.106.153.45:443) timed out
+[2017-03-01 15:15:53] ME (23.106.153.45:443) timed out
+[2017-03-01 15:18:33] ME (23.106.153.45:443) timed out
+[2017-03-01 16:32:31] ME (23.106.153.45:443) timed out
+[2017-03-01 16:32:31] ME (23.106.153.45:443) timed out
+[2017-03-01 16:32:31] ME (23.106.153.45:443) timed out
+[2017-03-01 16:32:31] ME (23.106.153.45:443) timed out
+[2017-03-01 16:32:31] ME (23.106.153.45:443) timed out
+[2017-03-01 16:32:32] ME (23.106.153.45:443) timed out
+[2017-03-01 16:32:32] ME (23.106.153.45:443) timed out
+[2017-03-01 16:32:32] ME (23.106.153.45:443) timed out
+[2017-03-01 16:32:32] ME (23.106.153.45:443) timed out
+[2017-03-01 16:32:33] ME (23.106.153.45:443) timed out
+[2017-03-01 20:18:23] controller stopped
+[2017-03-01 20:18:23] os suspend
+[2017-03-02 10:37:39] os wake up
+[2017-03-02 10:37:54] Shadowsocks started
+[2017-03-02 10:38:05] controller started
+[2017-03-02 10:38:46] ME (23.106.153.45:443) timed out
+[2017-03-02 16:40:33] ME (23.106.153.45:443) timed out
+[2017-03-02 17:17:16] ME (23.106.153.45:443) timed out
+[2017-03-02 17:17:21] ME (23.106.153.45:443) timed out
+[2017-03-02 17:18:41] ME (23.106.153.45:443) timed out
+[2017-03-02 17:18:46] ME (23.106.153.45:443) timed out
+[2017-03-02 17:20:03] ME (23.106.153.45:443) timed out
+[2017-03-02 17:20:08] ME (23.106.153.45:443) timed out
+[2017-03-02 17:29:21] ME (23.106.153.45:443) timed out
+[2017-03-02 17:29:26] ME (23.106.153.45:443) timed out
+[2017-03-02 18:32:17] ME (23.106.153.45:443) timed out
+[2017-03-02 18:32:17] ME (23.106.153.45:443) timed out
+[2017-03-02 18:32:17] ME (23.106.153.45:443) timed out
+[2017-03-02 18:32:17] ME (23.106.153.45:443) timed out
+[2017-03-02 18:32:17] ME (23.106.153.45:443) timed out
+[2017-03-02 18:32:17] ME (23.106.153.45:443) timed out
+[2017-03-02 18:32:17] ME (23.106.153.45:443) timed out
+[2017-03-02 18:32:17] ME (23.106.153.45:443) timed out
+[2017-03-02 18:32:22] ME (23.106.153.45:443) timed out
+[2017-03-02 18:48:58] controller stopped
+[2017-03-02 18:48:58] os suspend
+[2017-03-03 08:59:05] os wake up
+[2017-03-03 08:59:16] Shadowsocks started
+[2017-03-03 08:59:16] controller started
+[2017-03-03 09:40:38] ME (23.106.153.45:443) timed out
+[2017-03-03 09:40:39] ME (23.106.153.45:443) timed out
+[2017-03-03 09:40:43] ME (23.106.153.45:443) timed out
+[2017-03-03 09:40:44] ME (23.106.153.45:443) timed out
+[2017-03-03 09:42:06] ME (23.106.153.45:443) timed out
+[2017-03-03 09:42:11] ME (23.106.153.45:443) timed out
+[2017-03-03 13:09:32] ME (23.106.153.45:443) timed out
+[2017-03-03 14:59:11] ME (23.106.153.45:443) timed out
+[2017-03-03 15:10:08] ME (23.106.153.45:443) timed out
+[2017-03-03 16:52:19] ME (23.106.153.45:443) timed out
+[2017-03-03 16:55:20] ME (23.106.153.45:443) timed out
+[2017-03-03 18:27:54] ME (23.106.153.45:443) timed out
+[2017-03-03 18:49:05] ME (23.106.153.45:443) timed out
+[2017-03-03 18:49:10] ME (23.106.153.45:443) timed out
+[2017-03-03 18:49:19] ME (23.106.153.45:443) timed out
+[2017-03-03 18:56:53] ME (23.106.153.45:443) timed out
+[2017-03-03 18:57:35] ME (23.106.153.45:443) timed out
+[2017-03-03 19:00:27] ME (23.106.153.45:443) timed out
+[2017-03-03 19:03:00] controller stopped
+[2017-03-03 19:03:00] os suspend
+[2017-03-06 08:56:08] os wake up
+[2017-03-06 08:56:36] Shadowsocks started
+[2017-03-06 08:56:44] controller started
+[2017-03-06 08:56:44] ME (23.106.153.45:443) timed out
+[2017-03-06 08:56:49] ME (23.106.153.45:443) timed out
+[2017-03-06 08:56:51] ME (23.106.153.45:443) timed out
+[2017-03-06 08:57:07] ME (23.106.153.45:443) timed out
+[2017-03-06 09:05:01] ME (23.106.153.45:443) timed out
+[2017-03-06 09:05:06] ME (23.106.153.45:443) timed out
+[2017-03-06 09:12:59] ME (23.106.153.45:443) timed out
+[2017-03-06 09:13:06] ME (23.106.153.45:443) timed out
+[2017-03-06 09:13:59] ME (23.106.153.45:443) timed out
+[2017-03-06 09:13:59] ME (23.106.153.45:443) timed out
+[2017-03-06 09:14:04] ME (23.106.153.45:443) timed out
+[2017-03-06 09:14:04] ME (23.106.153.45:443) timed out
+[2017-03-06 09:14:37] ME (23.106.153.45:443) timed out
+[2017-03-06 09:14:37] ME (23.106.153.45:443) timed out
+[2017-03-06 09:14:37] ME (23.106.153.45:443) timed out
+[2017-03-06 09:15:13] ME (23.106.153.45:443) timed out
+[2017-03-06 09:17:16] ME (23.106.153.45:443) timed out
+[2017-03-06 09:17:31] ME (23.106.153.45:443) timed out
+[2017-03-06 09:17:35] ME (23.106.153.45:443) timed out
+[2017-03-06 09:20:41] ME (23.106.153.45:443) timed out
+[2017-03-06 09:23:46] ME (23.106.153.45:443) timed out
+[2017-03-06 10:17:03] ME (23.106.153.45:443) timed out
+[2017-03-06 10:18:08] ME (23.106.153.45:443) timed out
+[2017-03-06 10:18:59] ME (23.106.153.45:443) timed out
+[2017-03-06 10:21:04] ME (23.106.153.45:443) timed out
+[2017-03-06 10:23:52] ME (23.106.153.45:443) timed out
+[2017-03-06 10:23:57] ME (23.106.153.45:443) timed out
+[2017-03-06 10:49:28] ME (23.106.153.45:443) timed out
+[2017-03-06 10:49:28] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:50] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:51] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:51] ME (23.106.153.45:443) timed out
+[2017-03-06 11:10:55] ME (23.106.153.45:443) timed out
+[2017-03-06 11:11:06] ME (23.106.153.45:443) timed out
+[2017-03-06 11:11:08] ME (23.106.153.45:443) timed out
+[2017-03-06 11:11:08] ME (23.106.153.45:443) timed out
+[2017-03-06 11:12:37] ME (23.106.153.45:443) timed out
+[2017-03-06 11:30:32] ME (23.106.153.45:443) timed out
+[2017-03-06 12:04:28] ME (23.106.153.45:443) timed out
+[2017-03-06 13:45:21] ME (23.106.153.45:443) timed out
+[2017-03-06 13:45:21] ME (23.106.153.45:443) timed out
+[2017-03-06 13:45:26] ME (23.106.153.45:443) timed out
+[2017-03-06 15:24:57] ME (23.106.153.45:443) timed out
+[2017-03-06 15:28:09] ME (23.106.153.45:443) timed out
+[2017-03-06 15:28:38] ME (23.106.153.45:443) timed out
+[2017-03-06 15:28:43] ME (23.106.153.45:443) timed out
+[2017-03-06 15:31:40] ME (23.106.153.45:443) timed out
+[2017-03-06 15:36:27] ME (23.106.153.45:443) timed out
+[2017-03-06 15:45:23] ME (23.106.153.45:443) timed out
+[2017-03-06 15:45:28] ME (23.106.153.45:443) timed out
+[2017-03-06 17:16:28] ME (23.106.153.45:443) timed out
+[2017-03-06 17:24:10] ME (23.106.153.45:443) timed out
+[2017-03-06 17:24:10] ME (23.106.153.45:443) timed out
+[2017-03-06 17:24:10] ME (23.106.153.45:443) timed out
+[2017-03-06 17:24:17] ME (23.106.153.45:443) timed out
+[2017-03-06 17:24:22] ME (23.106.153.45:443) timed out
+[2017-03-06 17:24:27] ME (23.106.153.45:443) timed out
+[2017-03-06 17:24:46] ME (23.106.153.45:443) timed out
+[2017-03-06 17:25:00] ME (23.106.153.45:443) timed out
+[2017-03-06 17:25:05] ME (23.106.153.45:443) timed out
+[2017-03-06 17:26:57] ME (23.106.153.45:443) timed out
+[2017-03-06 17:46:07] ME (23.106.153.45:443) timed out
+[2017-03-06 17:46:07] ME (23.106.153.45:443) timed out
+[2017-03-06 18:02:13] ME (23.106.153.45:443) timed out
+[2017-03-07 08:59:06] Shadowsocks started
+[2017-03-07 09:09:29] ME (23.106.153.45:443) timed out
+[2017-03-07 09:21:31] ME (23.106.153.45:443) timed out
+[2017-03-07 12:25:09] ME (23.106.153.45:443) timed out
+[2017-03-07 12:25:14] ME (23.106.153.45:443) timed out
+[2017-03-07 13:38:43] ME (23.106.153.45:443) timed out
+[2017-03-07 13:45:09] ME (23.106.153.45:443) timed out
+[2017-03-07 13:45:14] ME (23.106.153.45:443) timed out
+[2017-03-07 14:21:35] ME (23.106.153.45:443) timed out
+[2017-03-07 14:45:32] ME (23.106.153.45:443) timed out
+[2017-03-07 14:59:17] ME (23.106.153.45:443) timed out
+[2017-03-07 14:59:17] ME (23.106.153.45:443) timed out
+[2017-03-07 14:59:22] ME (23.106.153.45:443) timed out
+[2017-03-07 15:09:25] ME (23.106.153.45:443) timed out
+[2017-03-07 15:21:02] ME (23.106.153.45:443) timed out
+[2017-03-07 15:24:13] ME (23.106.153.45:443) timed out
+[2017-03-07 15:38:56] ME (23.106.153.45:443) timed out
+[2017-03-07 15:53:35] ME (23.106.153.45:443) timed out
+[2017-03-07 16:23:14] ME (23.106.153.45:443) timed out
+[2017-03-07 16:39:26] ME (23.106.153.45:443) timed out
+[2017-03-07 17:05:05] ME (23.106.153.45:443) timed out
+[2017-03-07 17:28:11] ME (23.106.153.45:443) timed out
+[2017-03-07 17:28:11] ME (23.106.153.45:443) timed out
+[2017-03-07 17:28:11] ME (23.106.153.45:443) timed out
+[2017-03-07 17:41:23] ME (23.106.153.45:443) timed out
+[2017-03-07 19:04:07] controller stopped
+[2017-03-07 19:04:07] os suspend
+[2017-03-08 11:19:38] os wake up
+[2017-03-08 11:19:52] Shadowsocks started
+[2017-03-08 11:19:56] controller started
+[2017-03-08 11:59:20] ME (23.106.153.45:443) timed out
+[2017-03-08 12:45:54] ME (23.106.153.45:443) timed out
+[2017-03-08 12:45:59] ME (23.106.153.45:443) timed out
+[2017-03-08 12:45:59] ME (23.106.153.45:443) timed out
+[2017-03-08 12:45:59] ME (23.106.153.45:443) timed out
+[2017-03-08 12:46:42] ME (23.106.153.45:443) timed out
+[2017-03-08 12:46:44] ME (23.106.153.45:443) timed out
+[2017-03-08 12:49:55] ME (23.106.153.45:443) timed out
+[2017-03-08 12:49:56] ME (23.106.153.45:443) timed out
+[2017-03-08 12:50:00] ME (23.106.153.45:443) timed out
+[2017-03-08 12:50:01] ME (23.106.153.45:443) timed out
+[2017-03-08 13:37:54] ME (23.106.153.45:443) timed out
+[2017-03-08 13:37:54] ME (23.106.153.45:443) timed out
+[2017-03-08 13:37:54] ME (23.106.153.45:443) timed out
+[2017-03-08 13:37:54] ME (23.106.153.45:443) timed out
+[2017-03-08 14:15:58] ME (23.106.153.45:443) timed out
+[2017-03-08 14:16:10] ME (23.106.153.45:443) timed out
+[2017-03-08 14:20:44] ME (23.106.153.45:443) timed out
+[2017-03-08 14:36:36] ME (23.106.153.45:443) timed out
+[2017-03-08 14:37:50] ME (23.106.153.45:443) timed out
+[2017-03-08 15:06:37] ME (23.106.153.45:443) timed out
+[2017-03-08 15:06:44] ME (23.106.153.45:443) timed out
+[2017-03-08 15:07:05] ME (23.106.153.45:443) timed out
+[2017-03-08 15:07:05] ME (23.106.153.45:443) timed out
+[2017-03-08 15:07:05] ME (23.106.153.45:443) timed out
+[2017-03-08 15:07:58] ME (23.106.153.45:443) timed out
+[2017-03-08 15:50:29] ME (23.106.153.45:443) timed out
+[2017-03-08 17:17:46] ME (23.106.153.45:443) timed out
+[2017-03-08 17:33:04] ME (23.106.153.45:443) timed out
+[2017-03-08 18:57:11] controller stopped
+[2017-03-08 18:57:11] os suspend
+[2017-03-09 09:01:00] os wake up
+[2017-03-09 09:01:38] Shadowsocks started
+[2017-03-09 09:01:42] controller started
+[2017-04-13 11:24:00] Shadowsocks started
+[2017-04-13 11:24:17] Shadowsocks started
+[2017-04-13 12:29:23] controller stopped
+[2017-04-13 12:29:23] os suspend
+[2017-04-13 12:39:43] Shadowsocks started
+[2017-05-09 14:19:26] Shadowsocks started
+[2017-05-20 13:39:41] Shadowsocks started
+[2017-05-20 14:34:06] ME (23.106.153.45:443) timed out
+[2017-05-20 14:47:57] controller stopped
+[2017-05-20 14:47:57] os suspend
+[2017-05-22 08:47:50] os wake up
+[2017-05-22 08:48:01] Shadowsocks started
+[2017-05-22 08:48:01] controller started
+[2017-08-03 14:42:06] Shadowsocks started
+[2017-08-03 14:42:16] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:16] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:19] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:21] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:22] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:24] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:29] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:29] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:30] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:31] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:31] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:34] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:35] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:37] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:38] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:54] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:42:56] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:03] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:04] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:16] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:17] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:23] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:24] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:34] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:35] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:36] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:37] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:38] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:39] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:49] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:51] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:56] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:43:58] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:44:09] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:44:10] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:44:22] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:44:24] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:44:29] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:44:31] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:44:42] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:44:44] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:44:55] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:44:57] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:45:02] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:45:04] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:45:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:45:17] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:45:28] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:45:30] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:45:35] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:45:37] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:45:48] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:45:50] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:01] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:03] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:08] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:10] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:21] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:23] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:35] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:36] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:41] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:43] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:54] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:46:56] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:47:02] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:47:03] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:47:05] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:47:06] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:47:08] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:47:09] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:47:27] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:47:29] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:47:41] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:47:42] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:48:00] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:48:02] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:48:14] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:48:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:48:34] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:48:35] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:48:47] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:48:48] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:49:07] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:49:08] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:49:20] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:49:22] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:49:40] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:49:41] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:49:53] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:49:54] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:49:55] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:49:55] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:50:13] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:50:14] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:50:26] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:50:28] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:50:46] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:50:47] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:50:59] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:51:01] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:51:19] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:51:20] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:51:20] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:51:33] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:51:34] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:51:52] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:51:54] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:52:02] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:52:04] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:52:06] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:52:07] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:52:29] ME (23.106.153.45:443) timed out
+[2017-08-03 14:52:30] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:52:39] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:52:43] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:53:02] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:53:04] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:53:13] Shadowsocks started
+[2017-08-03 14:53:15] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2017-08-03 14:53:28] Shadowsocks started
+[2017-08-03 14:53:35] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2017-08-12 10:01:01] Shadowsocks started
+[2017-08-16 09:48:11] Shadowsocks started
